@@ -1,0 +1,31 @@
+.purple{
+    height: 50;;
+   
+    background-color: purple;
+}
+h1{
+    
+    color: white;
+     text-align: center;
+}
+.row{
+    
+   
+     text-align: center;
+}
+form{
+	border: 1Spx solid orange;
+	padding:10px;
+	background-color:orange;
+}
+p{
+	width:400px;
+	padding-left: 400px;
+	text-align: left;
+	vertical-align: top;
+}
+label.left{
+	float: left;
+	margin-left: -305px;
+	font-weight:bold ;
+}
